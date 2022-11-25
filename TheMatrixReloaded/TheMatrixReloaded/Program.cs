@@ -78,7 +78,7 @@ namespace TheMatrix
             }
             
             numbers[inp] = inp1;
-            foreach (int num in numbers) { Console.WriteLine(num); }
+            ShowArray();
         }
 
         private static void ShowArray()
