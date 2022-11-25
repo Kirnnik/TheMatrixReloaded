@@ -1,0 +1,15 @@
+C:\Users\Snowman\Desktop\Папка 36\A_C#\TheMatrixReloaded\TheMatrixReloaded\obj\Debug\net6.0\TheMatrixReloaded.csproj.AssemblyReference.cache
+C:\Users\Snowman\Desktop\Папка 36\A_C#\TheMatrixReloaded\TheMatrixReloaded\obj\Debug\net6.0\TheMatrixReloaded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Snowman\Desktop\Папка 36\A_C#\TheMatrixReloaded\TheMatrixReloaded\obj\Debug\net6.0\TheMatrixReloaded.AssemblyInfoInputs.cache
+C:\Users\Snowman\Desktop\Папка 36\A_C#\TheMatrixReloaded\TheMatrixReloaded\obj\Debug\net6.0\TheMatrixReloaded.AssemblyInfo.cs
+C:\Users\Snowman\Desktop\Папка 36\A_C#\TheMatrixReloaded\TheMatrixReloaded\obj\Debug\net6.0\TheMatrixReloaded.csproj.CoreCompileInputs.cache
+C:\Users\Snowman\Desktop\Папка 36\A_C#\TheMatrixReloaded\TheMatrixReloaded\bin\Debug\net6.0\TheMatrixReloaded.exe
+C:\Users\Snowman\Desktop\Папка 36\A_C#\TheMatrixReloaded\TheMatrixReloaded\bin\Debug\net6.0\TheMatrixReloaded.deps.json
+C:\Users\Snowman\Desktop\Папка 36\A_C#\TheMatrixReloaded\TheMatrixReloaded\bin\Debug\net6.0\TheMatrixReloaded.runtimeconfig.json
+C:\Users\Snowman\Desktop\Папка 36\A_C#\TheMatrixReloaded\TheMatrixReloaded\bin\Debug\net6.0\TheMatrixReloaded.dll
+C:\Users\Snowman\Desktop\Папка 36\A_C#\TheMatrixReloaded\TheMatrixReloaded\bin\Debug\net6.0\TheMatrixReloaded.pdb
+C:\Users\Snowman\Desktop\Папка 36\A_C#\TheMatrixReloaded\TheMatrixReloaded\obj\Debug\net6.0\TheMatrixReloaded.dll
+C:\Users\Snowman\Desktop\Папка 36\A_C#\TheMatrixReloaded\TheMatrixReloaded\obj\Debug\net6.0\refint\TheMatrixReloaded.dll
+C:\Users\Snowman\Desktop\Папка 36\A_C#\TheMatrixReloaded\TheMatrixReloaded\obj\Debug\net6.0\TheMatrixReloaded.pdb
+C:\Users\Snowman\Desktop\Папка 36\A_C#\TheMatrixReloaded\TheMatrixReloaded\obj\Debug\net6.0\TheMatrixReloaded.genruntimeconfig.cache
+C:\Users\Snowman\Desktop\Папка 36\A_C#\TheMatrixReloaded\TheMatrixReloaded\obj\Debug\net6.0\ref\TheMatrixReloaded.dll
